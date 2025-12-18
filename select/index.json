@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "思想犯",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-18T16:15:23.391889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/01_思想犯_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_思想犯_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_思想犯_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/04_思想犯_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_思想犯_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "思想犯 - Thoughtcrime",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/06_思想犯_-_Thoughtcrime_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "思想犯 - Thoughtcrime",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_思想犯_-_Thoughtcrime_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_思想犯_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "思想犯 - Thoughtcrime",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/09_思想犯_-_Thoughtcrime_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/10_思想犯_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/11_思想犯_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "思想犯",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/12_思想犯_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "思想犯",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_思想犯_ヨルシカ.txt"
+    }
+  ]
+}
